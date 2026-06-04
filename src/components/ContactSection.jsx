@@ -36,8 +36,8 @@ export default function ContactSection({ contactImage }) {
             IMMIGRATION JOURNEY
           </h2>
           <p className="text-silver/60 text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
-            Get expert guidance on your visa and immigration needs. Contact J
-            Consultancy Services today.
+            Get expert guidance on your visa and immigration needs. Contact LJ
+            Consultancy today.
           </p>
         </motion.div>
 

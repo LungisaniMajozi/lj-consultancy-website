@@ -19,10 +19,10 @@ export default function HeroSection({ heroImage }) {
         <div className="absolute inset-0 bg-gradient-to-b from-[#05070A]/80 via-[#05070A]/60 to-[#05070A]" />
       </div>
 
-      {/* Giant "J" Monolith */}
+      {/* Giant "LJ" Monolith */}
       <div className="absolute inset-0 flex items-center justify-center pointer-events-none select-none">
         <span className="text-[40vw] sm:text-[30vw] font-display font-bold text-white/[0.02] leading-none">
-          J
+          LJ
         </span>
       </div>
 
@@ -45,7 +45,7 @@ export default function HeroSection({ heroImage }) {
           transition={{ duration: 1, delay: 0.5 }}
           className="font-display font-bold text-3xl sm:text-5xl md:text-6xl lg:text-7xl text-white leading-tight tracking-tight"
         >
-          <span className="block">J CONSULTANCY</span>
+          <span className="block">LJ CONSULTANCY</span>
           <span className="block text-gold mt-2">SERVICES</span>
         </motion.h1>
 

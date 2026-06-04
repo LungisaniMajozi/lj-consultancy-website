@@ -40,7 +40,7 @@ export default function Navbar() {
           <a href="#hero" className="flex items-center gap-3 shrink-0">
             <img
               src="/logo.png"
-              alt="J Consultancy Services Logo"
+              alt="LJ Consultancy Logo"
               className="h-10 sm:h-12 w-auto"
             />
           </a>

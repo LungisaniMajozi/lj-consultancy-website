@@ -61,7 +61,7 @@ export default function AboutSection({ aboutImage }) {
             custom={2}
           >
             <p className="text-silver/80 text-base sm:text-lg leading-relaxed">
-              J Consultancy Services is a South African immigration and visa
+              LJ Consultancy is a South African immigration and visa
               consulting company based in Midrand, Johannesburg. The company
               assists individuals, families, students, skilled professionals,
               entrepreneurs, investors, and corporate clients with navigating
@@ -106,7 +106,7 @@ export default function AboutSection({ aboutImage }) {
               documentation.
             </p>
             <p className="text-silver/70 text-base leading-relaxed">
-              J Consultancy Services bridges the gap between applicants and
+              LJ Consultancy bridges the gap between applicants and
               regulatory requirements by providing structured guidance and
               administrative support.
             </p>

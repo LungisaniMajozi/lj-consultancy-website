@@ -8,12 +8,12 @@ export default function Footer() {
           <div className="flex items-center gap-3">
             <img
               src="/logo.png"
-              alt="J Consultancy Services"
+              alt="LJ Consultancy"
               className="h-8 w-auto"
             />
             <div>
               <p className="text-silver/40 text-xs">
-                © {new Date().getFullYear()} J Consultancy Services. All rights
+                © {new Date().getFullYear()} LJ Consultancy. All rights
                 reserved.
               </p>
             </div>
