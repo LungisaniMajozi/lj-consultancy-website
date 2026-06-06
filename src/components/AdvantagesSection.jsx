@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import {
   UserCheck,
@@ -68,7 +67,7 @@ export default function AdvantagesSection({ networkImage }) {
       <div className="absolute inset-0">
         <img
           src={networkImage}
-          alt="Global network visualization"
+          alt="Professional consulting team working together"
           className="w-full h-full object-cover opacity-5"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#05070A] via-[#05070A]/98 to-[#05070A]" />

@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Phone, Mail, MapPin, ArrowUpRight } from "lucide-react";
 
@@ -12,7 +11,7 @@ export default function ContactSection({ contactImage }) {
       <div className="absolute inset-0">
         <img
           src={contactImage}
-          alt="Johannesburg skyline"
+          alt="Professional visa and immigration assistance support desk"
           className="w-full h-full object-cover opacity-10"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#05070A] via-[#05070A]/95 to-[#05070A]" />

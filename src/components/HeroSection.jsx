@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 
@@ -12,7 +11,7 @@ export default function HeroSection({ heroImage }) {
       <div className="absolute inset-0">
         <img
           src={heroImage}
-          alt="Futuristic skyscraper reflecting golden sunset"
+          alt="South African passports and visas representing immigration success"
           className="w-full h-full object-cover scale-110"
           style={{ transform: "translateZ(0)" }}
         />

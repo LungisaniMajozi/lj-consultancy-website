@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Eye, Target, Gem } from "lucide-react";
 
@@ -47,11 +46,11 @@ export default function VisionSection({ visionImage }) {
             <h2 className="font-display font-bold text-2xl sm:text-4xl lg:text-5xl text-gold mt-4 mb-8 tracking-tight">
               THE STRATEGY LAB
             </h2>
-            <div className="rounded-2xl overflow-hidden glass">
+            <div className="rounded-2xl overflow-hidden glass group">
               <img
                 src={visionImage}
-                alt="Abstract compass visualization"
-                className="w-full aspect-[4/3] object-cover opacity-80"
+                alt="Professional immigration consultation and guidance"
+                className="w-full aspect-[4/3] object-cover opacity-80 group-hover:scale-105 transition-transform duration-700"
               />
             </div>
           </motion.div>
